@@ -1,5 +1,15 @@
-## Hi there 👋
+# Hi, I'm Matthew 👋
 
+Full-stack developer working at the intersection of finance and AI. Currently interning at IA Private Wealth, building an AI agent pipeline for portfolio management.
+
+**Recent work:**
+- Built a multi-agent AI system (33 agents across 11 GICS sectors) for portfolio benchmarking
+- Engineered full-stack apps (React, Next.js, PostgreSQL) supporting $500K+ ARR
+- Built and sold custom inventory/team management software for small businesses
+
+**Stack:** Python, TypeScript, React, Next.js, Node.js, PostgreSQL, AWS
+
+**Connect:** [LinkedIn](#) · pete6514@mylaurier.ca
 <!--
 **matthewpeters-extended/matthewpeters-extended** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
