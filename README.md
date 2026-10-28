@@ -9,7 +9,7 @@ Full-stack developer working at the intersection of finance and AI. Currently in
 
 **Stack:** Python, TypeScript, React, Next.js, Node.js, PostgreSQL, AWS
 
-**Connect:** [LinkedIn](https://www.linkedin.com/in/matthew-peters-69a46b311/) · pete6514@mylaurier.ca
+**Connect:** [LinkedIn](https://www.linkedin.com/in/matthew-peters-69a46b311/) · matthewpeters711@gmail.com
 <!--
 **matthewpeters-extended/matthewpeters-extended** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
